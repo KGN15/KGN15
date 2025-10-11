@@ -1,8 +1,15 @@
+<!-- 🌟 Premium Animated GitHub Profile README for Md Mashudur Rahman -->
 
-# 👋 Hi there! I'm Md Mashudur Rahman  
+<h1 align="center">👋 Hi there! I'm <span style="color:#00BFFF;">Md Mashudur Rahman</span></h1>
 
-🚀 A passionate **Front-End Web Developer** learning and growing every day.  
-💡 I love turning creative ideas into responsive and interactive web experiences.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;MERN+Stack+Learner;C%23+Beginner;Creative+Tech+Lover;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+</p>
+
+<p align="center">
+🚀 A passionate <b>Front-End Web Developer</b> learning and growing every day.<br>
+💡 I love turning creative ideas into responsive and interactive web experiences.
+</p>
 
 ---
 
@@ -26,19 +33,48 @@
 
 ## 🌱 Currently Learning  
 - 🧩 **MERN Stack** (MongoDB, Express, React, Node.js)  
-- ⚙️ Backend basics with **C#**  
+- ⚙️ Backend basics with **C#**
 
 ---
 
-## 📈 GitHub Stats  
-![Mashudur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MashudurRahman&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MashudurRahman&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashudurRahman&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/mukuta.chara.raja.2025))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mashudur-rahman-233746384/)
+## ⚡ Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MashudurRahman&theme=tokyo-night" alt="Activity Graph"/>
+</p>
 
 ---
 
-✨ _"Code. Learn. Build. Repeat."_ ✨
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.facebook.com/mukuta.chara.raja.2025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-mashudur-rahman-233746384/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MashudurRahman&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
