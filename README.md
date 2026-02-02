@@ -3,12 +3,13 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Md Mashudur Rahman</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+MERN+Stack;Node.js+Backend+Developer;JavaScript+Expert;Creative+Tech+Builder;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+MERN+Stack;Node.js+Backend+Developer;JavaScript+Enthusiast;Creative+Tech+Builder;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-🔥 A passionate <b>Full Stack MERN Developer</b> building modern web applications.<br>
-💡 I love solving problems, creating digital experiences, and learning new technologies.
+🔥 Passionate <b>Full Stack MERN Developer</b> building modern web applications.<br>
+💡 I love solving problems, creating digital experiences, and learning new technologies.<br>
+⚡ Currently contributing to projects as per my availability due to limited internet access, ensuring quality work in every session.
 </p>
 
 ---
@@ -19,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🔹 **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,9 +37,9 @@
 ---
 
 ## 🌱 **Currently Learning**
-- Advanced **Node.js Backend**
-- **API Security** (JWT, bcrypt, middleware)
-- **MERN Full Stack Development**
+- Advanced **Node.js Backend** & API Development
+- **JWT & API Security** for safe authentication
+- **MERN Full Stack Projects** (working in limited time slots)
 
 ---
 
