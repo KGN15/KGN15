@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 🔥 <b>Full Stack Developer</b> building production-grade web applications.<br>
-🚀 At 14, I built and deployed <b>MostafizTradeHub</b> — a complete B2B SaaS platform used by a real wholesale distributor business in Bangladesh.<br>
+🚀 I built and deployed <b>MostafizTradeHub</b> — a complete B2B SaaS platform used by a real wholesale distributor business in Bangladesh.<br>
 💡 Passionate about solving real business problems through clean, scalable code.
 </p>
 
