@@ -1,5 +1,6 @@
 <!-- 🌟 GitHub Profile README - Mashhudur Rahman -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Mashhudur Rahman</span></h1>
+<h1 align="center"><span style="color:#00BFFF;">Mashhudur Rahman</span><span style="color:#b50d0d;">Software Developer from Bangladesh</span></h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+MERN+Stack;B2B+SaaS+Builder;TypeScript+%7C+Node.js+%7C+React;14+y%2Fo+%7C+Building+Real+Products;" alt="Typing SVG" />
 </p>
