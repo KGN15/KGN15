@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+MERN+Stack;B2B+SaaS+Builder;TypeScript+%7C+Node.js+%7C+React;%2Fo+%7C+Building+Real+Products;" alt="Typing SVG" />
 </p>
 <p align="center">
-🔥 <b>Full Stack Developer</b> building production-grade web applications.<br>
+🔥 <b>Software Developer </b> building production-grade web applications.<br>
 🚀 I built and deployed <b>MostafizTradeHub</b> — a complete B2B SaaS platform used by a real wholesale distributor business in Bangladesh.<br>
 💡 Passionate about solving real business problems through clean, scalable code.
 </p>
