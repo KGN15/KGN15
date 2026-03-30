@@ -66,7 +66,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGN15&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+ ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KGN15&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KGN15&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
